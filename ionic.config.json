@@ -1,0 +1,7 @@
+{
+  "name": "hyre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
