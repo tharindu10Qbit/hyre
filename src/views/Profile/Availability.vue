@@ -23,7 +23,6 @@
       <ion-item>
         <ion-label>Smart Card Number: Name</ion-label>
       </ion-item>
-
       <h2></h2>
     </ion-card-content>
   </ion-card>
