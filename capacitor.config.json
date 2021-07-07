@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "hyre",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "com.10Qbit",
+  "appName": "Hyre",
+  "webDir": "public",
+  "bundledWebRuntime": false
 }
